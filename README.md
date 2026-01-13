@@ -74,32 +74,6 @@
 
 ---
 
-## ⚙️ **GitHub Analytics**
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USERNAME&layout=compact&theme=radical"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USERNAME&theme=radical&hide_border=true"/>
-  
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=TU-USERNAME&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
-</div>
-
----
-
-## 🐍 **Commits Animation**
-
-<div align="center">
-  <img src="https://github.com/TU-USERNAME/TU-USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</div>
-
----
-
-<div align="center">
-  <p>⭐ <b>Siempre aprendiendo, siempre mejorando.</b></p>
-  
   <sub>¡Gracias por visitar mi perfil! 🌟</sub>
 </div>
