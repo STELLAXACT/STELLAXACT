@@ -12,7 +12,7 @@
 <img align="right" alt="Night Coding" width="280" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
 💡 Apasionado por la tecnología, redes, programación y la ciberseguridad  
-🎓 **Estudiante de Ingeniería en Informatica**  
+🎓 **Estudiante de Ingeniería Informatica**  
 🌱 Actualmente aprendiendo **Python, redes, cloud y ciberseguridad**  
 🧠 Rompo sistemas en fragmentos, cuestiono su funcionamiento y descubro cómo cada parte se conecta.  
 
